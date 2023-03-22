@@ -1,0 +1,13 @@
+Create an HTML file with the following elements:
+
+A container for the progress bar
+User input fields for customization (e.g., width, height, color, percentage, animation duration, etc.)
+A button to generate the progress bar based on user input
+Write CSS to style the progress bar and input fields. Make sure the progress bar looks good and is responsive.
+
+Write JavaScript functions to:
+
+Validate user input (e.g., ensure percentage is between 0 and 100)
+Update the progress bar properties based on user input (e.g., change width, height, color, etc.)
+Add optional animations (e.g., animate the progress bar filling up)
+Test your progress bar generator to make sure it works correctly with various inputs.
